@@ -1,6 +1,6 @@
-# NR Fraud Detection (End-to-End)
+#Fraud Detection (End-to-End)
 
-Production-style scaffold for **NLR** payment fraud detection: synthetic data and EDA, preprocessing and feature hooks, **scikit-learn** baselines and gradient boosting, a **FastAPI** scoring service (with an optional **Flask** mirror), **Docker** packaging, and **GitHub Actions** CI.
+Production-style scaffold for **rr** payment fraud detection: synthetic data and EDA, preprocessing and feature hooks, **scikit-learn** baselines and gradient boosting, a **FastAPI** scoring service (with an optional **Flask** mirror), **Docker** packaging, and **GitHub Actions** CI.
 
 ## Repository layout
 
